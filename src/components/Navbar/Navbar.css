@@ -1,0 +1,7 @@
+.navbar .navbar-brand img {
+    width: 10rem;
+}
+
+.navbar .navbar-collapse .nav-link {
+    font-weight: 500;
+}
